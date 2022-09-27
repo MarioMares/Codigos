@@ -1,0 +1,62 @@
+[
+  {
+    "Nombre": "Smart TV",
+    "Precio": "$1,500",
+    "Detalles": "Es una television inteligente, te puede hacer la tarea y toda la cosa",
+    "Imagen": "https://img2.freepng.es/20180601/flc/kisspng-smart-tv-television-led-backlit-lcd-streaming-medi-smart-tv-5b10f3e0e506a6.0184189315278376649381.jpg"
+  },
+  {
+    "Nombre": "Consola Xbox Series S",
+    "Precio": "$6,299",
+    "Detalles": "Es una consola de videojuegos, ¿Que mas se puede decir?",
+    "Imagen": "https://res.cloudinary.com/walmart-labs/image/upload/w_960,dpr_auto,f_auto,q_auto:best/mg/gm/1p/images/product-images/img_large/00088984265135-2l.jpg"
+  },
+  {
+    "Nombre": "Horno de Microondas Atvio Home",
+    "Precio": "$1,690",
+    "Detalles": "Es un horno de microondas, es de color negro y mide 0.7 pies.",
+    "Imagen": "https://res.cloudinary.com/walmart-labs/image/upload/w_960,dpr_auto,f_auto,q_auto:best/mg/gm/1p/images/product-images/img_large/00019087300771l.jpg"
+  },
+  {
+    "Nombre": "Mini Bar Atvio AT-3.3MBR",
+    "Precio": "$4,490",
+    "Detalles": "Sirve para mantener tus cosas frias, puedes meter la cabeza dentro y meditar aunque no es muy recomendable.",
+    "Imagen": "https://res.cloudinary.com/walmart-labs/image/upload/w_960,dpr_auto,f_auto,q_auto:best/mg/gm/1p/images/product-images/img_large/00694046193295-2l.jpg"
+  },
+  {
+    "Nombre": "Estufa Atvio",
+    "Precio": "$4,990",
+    "Details": "Es una estufa de la marca Atvio, tiene 4 quemadores, es de color blanca y tiene horno includio :O.",
+    "Image": "https://res.cloudinary.com/walmart-labs/image/upload/w_960,dpr_auto,f_auto,q_auto:best/mg/gm/1p/images/product-images/img_large/00694427166672-1l.jpg"
+  },
+  {
+    "Nombre": "Laptop ASUS B1500CEAE-BQ2041T Ci3 11th Gen",
+    "Precio": "$11,999",
+    "Detalles": "Es una laptop, te la puedes llevar a 12 pagos de 999 o pagar de contado para un descuento.",
+    "Imagen": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00019555341098L.jpg"
+  },
+  {
+    "Nombre": "Lavadora Mabe 20 Kg",
+    "Precio": "$9,690",
+    "Detalles": "Es una lavadora Mabe de 20kg, eso no quiere decir que pese 20kg, los 20kg es la capacidad.",
+    "Imagen": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00075763897246L2.jpg"
+  },
+  {
+    "Nombre": "Pista Hot Wheels Mattel Super Ultimate Garage",
+    "Precio": "$4,999",
+    "Detalles": "¿Que rollo?, en mis tiempos estas cosas costaban mas barato.",
+    "Imagen": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00088796157559L.jpg"
+  },
+  {
+    "Nombre": "PColchón Matrimonial Regiomontana Elite Ortopédico",
+    "Precio": "$4,690",
+    "Detalles": "Vaya, en esta tienda venden hasta colchones.",
+    "Imagen": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00751503211212L.jpg"
+  },
+  {
+    "Nombre": "Ron Bacardí Añejo",
+    "Precio": "$179",
+    "Detalles": "Es extraño que la botella mas grande cueste menos que la pequeña.",
+    "Imagen": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750100861113L.jpg"
+  }
+]
