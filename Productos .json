@@ -8,14 +8,14 @@
   {
     "Nombre": "Nuka Cola Helada",
     "Precio": "$6,299",
-    "Detalles": "La Nuka Cola Helada es un producto raro de conseguir, de aqui su precio. No se preocupe, la Nuka-Cola helada sigue conservando sus cualidades radioactivas.",
+    "Detalles": "La Nuka Cola Helada es un producto raro de conseguir, de aqui su precio. No se preocupe,la Nuka-Cola helada sigue conservando sus cualidades radioactivas.",
     "Imagen": "https://static.wikia.nocookie.net/fallout/images/0/04/FO3_Nuka-Cola.png/revision/latest?cb=20210713164035"
   },
   {
-    "Nombre": "Horno de Microondas Atvio Home",
+    "Nombre": "Nuka Cola Quantum",
     "Precio": "$1,690",
-    "Detalles": "Es un horno de microondas, es de color negro y mide 0.7 pies.",
-    "Imagen": "https://res.cloudinary.com/walmart-labs/image/upload/w_960,dpr_auto,f_auto,q_auto:best/mg/gm/1p/images/product-images/img_large/00019087300771l.jpg"
+    "Detalles": "La formula de la Nuka Cola Quantum lleva un isótopo radioactivo suave de estroncio (y un decimoctavo sabor frutal que le aporta un toque de sabor a granada). Es una bebida que no sólo revitalizaba, sino que también resplandecía con una luz azul brillante.",
+    "Imagen": "https://static.wikia.nocookie.net/fallout/images/9/9d/FO3_Nuka-Cola_Quantum.png/revision/latest?cb=20170320231634"
   },
   {
     "Nombre": "Mini Bar Atvio AT-3.3MBR",
